@@ -1,0 +1,9 @@
+I WANT TO SELECT SEND TO COUNTRY
+
+I am using calculator service ""
+I select country option for ""Send To""
+I see country is selected for ""Send To""
+I see flag is displayed ""Send To""
+I see calculation data ""
+I see payment correspodent ""
+

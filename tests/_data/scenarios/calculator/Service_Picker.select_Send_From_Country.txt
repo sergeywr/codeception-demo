@@ -1,0 +1,7 @@
+I WANT TO SELECT SEND FROM COUNTRY
+
+I am using calculator service ""
+I select country option for ""Send From""
+I see country is selected for ""Send From""
+I see flag is displayed ""Send From""
+

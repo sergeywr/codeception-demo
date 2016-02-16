@@ -1,0 +1,10 @@
+I WANT TO CHANGE SEND TO COUNTRY
+
+I am using calculator service ""
+I select country option for ""Send To""
+I change to other country ""Send To""
+I see country is changed for ""Send To""
+I see flag is displayed ""Send To""
+I see calculation data ""
+I see payment correspodent ""
+

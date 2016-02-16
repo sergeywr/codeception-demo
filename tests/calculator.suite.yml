@@ -1,0 +1,14 @@
+class_name: CalculatorTester
+modules:
+    enabled:
+        - Asserts
+        - \Helper\Calculator
+        - WebDriver
+    config:
+        WebDriver:
+            host: '127.0.0.1'
+            port: 4444
+            browser: 'chrome'
+            url: 'http://websitedemo.staging.worldremit.com'
+            wait: 1
+            restart: true
